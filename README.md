@@ -54,8 +54,8 @@ Difficulties:
 - was overly ambitious with features that ultimately did not get implemented (bullets, enemy ships, tracking)
 
 Attributions:
--Code
-snippet inspired by Kevin Song's "beepbeep" code
+
+-Code snippet inspired by Kevin Song's "beepbeep" code
 
 -Turrets
 https://www.svgrepo.com/svg/499420/target-laser
