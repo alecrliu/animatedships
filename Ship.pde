@@ -28,7 +28,7 @@ class Ship {
    }
   
   void show() {
-    //from Professor Song's "beep beep"
+    //from Kevin Song's "beep beep"
     pushMatrix();
     translate(x, y);
     scale(scale);
